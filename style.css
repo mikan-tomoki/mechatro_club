@@ -1,0 +1,122 @@
+.header{
+  position: fixed;
+  width: 100%;
+  height: 12%;
+  right: 0%;
+  top: 0%;
+  background-color: rgb(255, 255, 255);
+  z-index: 2;
+  /*以下開発用*/
+  border: solid;
+  border-width: thin;
+  border-color: rgb(0, 0, 0);
+}
+
+.aboutus{
+  position: fixed;
+  width: 15%;
+  height: 10%;
+  top: 0%;
+  left: 20%;
+  background-color: rgb(255, 255, 255);
+  border: solid;
+  border-width: thin;
+  border-color: rgb(255, 255, 255);
+}
+
+.aboutus h1{
+  position: fixed;
+  width: 15%;
+  height: 10%;
+  top: 1.5%;
+  left: 21.5%;
+}
+
+.otoiawase{
+  position: fixed;
+  width: 15%;
+  height: 10%;
+  top: 0%;
+  left: 35%;
+  background-color: rgb(255, 255, 255);
+  border: solid;
+  border-width: thin;
+  border-color: rgb(255, 255, 255);
+}
+
+.otoiawase h1{
+  position: fixed;
+  font-size: 180%;
+  width: 15%;
+  height: 10%;
+  top: 2%;
+  left: 35.5%;
+}
+
+.katudou{
+  position: fixed;
+  width: 15%;
+  height: 10%;
+  top: 0%;
+  left: 50%;
+  background-color: rgb(255, 255, 255);
+  border: solid;
+  border-width: thin;
+  border-color: rgb(255, 255, 255);
+}
+
+.katudou h1{
+  position: fixed;
+  font-size: 180%;
+  width: 15%;
+  height: 10%;
+  top: 2%;
+  left: 51.5%;
+}
+
+.other{
+  position: fixed;
+  width: 15%;
+  height: 10%;
+  top: 0%;
+  left: 65%;
+  background-color: rgb(255, 255, 255);
+  border: solid;
+  border-width: thin;
+  border-color: rgb(255, 255, 255);
+}
+
+.other h1{
+  position: fixed;
+  font-size: 180%;
+  width: 20%;
+  height: 20%;
+  top: 2%;
+  left: 65%;
+}
+
+
+
+#meka{
+  position: fixed;
+  height: 10%;
+  top: 1%;
+  left: 2.5%;
+}
+
+body{
+  position: relative;
+  top: 1000px;
+}
+.news{
+  position: relative;
+  bottom: 100%;
+  left: 0%;
+}
+
+#news_img{
+  position: relative;
+  width: 95%;
+  left: 2.5%;
+  border-radius: 2%;
+}
